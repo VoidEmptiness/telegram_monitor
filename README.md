@@ -12,9 +12,8 @@
 
 ## 🛠 Настройка / Помощь
 1. Клонируйте репозиторий
-2. Установите зависимости: `pip install -r requirements.txt`
-3. Настройте файл [.env](cci:7://file:///C:/Users/FU/Documents/repositorgithub/telegram_monitor/.env:0:0-0:0) с вашими учетными данными
-4. Запуск: [start.bat](cci:7://file:///C:/Users/FU/Documents/repositorgithub/telegram_monitor/start.bat:0:0-0:0)
+2. Настройте файл [.env](cci:7://file:///C:/Users/FU/Documents/repositorgithub/telegram_monitor/.env:0:0-0:0) с вашими учетными данными
+3. Запуск: [start.bat](cci:7://file:///C:/Users/FU/Documents/repositorgithub/telegram_monitor/start.bat:0:0-0:0)
 
 ## 🤔 Хотите узнать больше?
 - Поддержка множества телеграм-каналов
