@@ -74,12 +74,7 @@ git clone https://github.com/VoidEmptiness/telegram_monitor.git
 cd telegram-monitor
 ```
 
-2. Установите зависимости
-```bash
-pip install -r requirements.txt
-```
-
-3. Заполните файл `.env`
+3. Заполните файл `.env` или запустите start.bat и зайдите на http://127.0.0.1:5000
 ```
 API_ID='ваш_api_id'
 API_HASH='ваш_api_hash'
